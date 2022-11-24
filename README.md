@@ -6,8 +6,9 @@ It then asks DALL-E 2 to generate an image. Then it writes it back to a new pack
 
 ## EXCEPTIONS:
 Many things have not been retextured. These include
-- Animated textures (maybe later)
+- Animated textures (Never)
 - Complex/stitched textures (Never)
+- Extended / Long textures (Never)
 - Chiseled Deepslate
 
 Wait, what? Yeah. It was, for some reason, flagged by the OpenAI safety system.
