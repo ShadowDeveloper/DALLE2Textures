@@ -9,14 +9,11 @@ Many things have not been retextured. These include
 - Animated textures (Never)
 - Complex/stitched textures (Never)
 - Extended / Long textures (Never)
-- Chiseled Deepslate
+- Chiseled Deepslate, Crimson Stem Top, Dark Prismarine
 
 Wait, what? Yeah. It was, for some reason, flagged by the OpenAI safety system.
 
 Couldn't you just generate it online? No. Craiyon / DALL-E Mini is a separate model trained on a smaller dataset that cannot create as high detail textures.
-- Crimson Stem Top
-
-Same as above
 
 - GUI elements (Never
 - Particles (Later)
